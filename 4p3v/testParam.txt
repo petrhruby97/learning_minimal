@@ -1,0 +1,5 @@
+1 // use a NN
+25 // number of samples
+0 // count only successful tracks
+0 // use a trash
+3 // Sampson error threshold

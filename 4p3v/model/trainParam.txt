@@ -1,0 +1,15 @@
+0.05 // init step size
+1e-4 // min step size
+0.05 // end zone factor
+4e-2 // corrector tolerance epsilon
+3 // step increase factor
+1e7 // infinity threshold
+9 // max corr steps
+4 // num successes before increase
+0.0001 // threshold for the difference between the obtained and the correct solution
+134 // number of anchors
+0.001 // learning rate
+0.9 // momentum
+0 // weight_decay
+32 // batch size
+80 // epochs
